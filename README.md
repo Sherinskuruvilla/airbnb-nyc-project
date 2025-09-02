@@ -102,7 +102,7 @@ Other regressors have the following scores
 - ✅ [ Trello](https://trello.com/b/brrBX69u/airbnb-newyork-price-prediction-ml-model)
 - ✅ README documentation: README.md
 -✅Presentation](https://docs.google.com/presentation/d/1B9ia4K43jkjU_EubWwtzHZ1kNZSL-ojrfKgdNC43UHA/edit?slide=id.g3644964c809_1_103#slide=id.g3644964c809_1_103) 
-
+- A Streamlit App has created to predict the Airbnb rental price
 ---
 
 ## 👨‍💼 Target Audience
